@@ -7,3 +7,5 @@ ayant la structure suivante:
 ```yaml
 JETON_API="####" #renseigner la valeur pertinente
 ```
+
+déploiment par gitops/argocd à partir du dépot application-deployment
